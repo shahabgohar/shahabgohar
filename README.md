@@ -12,5 +12,5 @@ My name is Muhammad Shahab Ud Din Gohar. I love learning and exploring new techn
 
 
 
-![shahab's github stats](https://github-readme-stats.vercel.app/api?username=shahabgohar&show_icons=true&theme=black)
+![shahab's github stats](https://github-readme-stats.vercel.app/api?username=shahabgohar&show_icons=true&theme=dark)
 
