@@ -15,4 +15,4 @@ My name is Muhammad Shahab Ud Din Gohar. I love learning and exploring new techn
 ![shahab's github stats](https://github-readme-stats.vercel.app/api?username=shahabgohar&show_icons=true&theme=dark)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahabgohar)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahabgohar&hide=html)](https://github.com/anuraghazra/github-readme-stats)
