@@ -4,6 +4,7 @@ My name is Muhammad Shahab Ud Din Gohar. I love learning and exploring new techn
 
 - 🔭 I’m currently working on ...Personal Improvement
 - 🌱 I’m expert in ... Laravel & Vue ecosystem
+- 🌱 slowly migrating towards ... react-native & spring boot
 - 💬 Ask me about ...anything
 - 📫 How to reach me: ...mail me shahab.developer.work@gmail.com
 - 😄 Pronouns: ...he/his
