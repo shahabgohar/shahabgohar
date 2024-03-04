@@ -10,6 +10,8 @@ My name is Muhammad Shahab Ud Din Gohar. I love learning and exploring new techn
 - 😄 Pronouns: ...he/his
 - :sparkles:   My portfolio ... https://shahabgohar.dev/
 
+![](https://komarev.com/ghpvc/?username=shahabgohar)
+
 ![Shahab's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahabgohar&hide=stars,contribs)
 
 ### Connect with me:
