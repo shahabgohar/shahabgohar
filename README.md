@@ -9,7 +9,8 @@ My name is Muhammad Shahab Ud Din Gohar. I love learning and exploring new techn
 - 📫 How to reach me: ...mail me shahab.developer.work@gmail.com
 - 😄 Pronouns: ...he/his
 - :sparkles:   My portfolio ... https://shahabgohar.dev/
-  
+
+[![Shahab's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahabgohar)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
