@@ -13,6 +13,7 @@ My name is Muhammad Shahab Ud Din Gohar. I love learning and exploring new techn
 ![](https://komarev.com/ghpvc/?username=shahabgohar)
 
 ![Shahab's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahabgohar&hide=stars,contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahabgohar)
 
 ### Connect with me:
 
