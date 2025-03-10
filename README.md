@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Muhammad Shahab Ud Din Gohar. I love learning and exploring new technology.
+My name is Muhammad Shahab Ud Din Gohar and I am PEC (Pakistan Engineering Council) certified Software Engineer. I love learning and exploring new technologies.
 
 
 - 🔭 I’m currently working on ...Personal Improvement
